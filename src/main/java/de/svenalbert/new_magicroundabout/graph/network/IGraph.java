@@ -19,7 +19,7 @@ public interface IGraph<T>
      * @param p_end end node identifier
      * @return list of edges to represent the route
      */
-    List<bachelor.project.graph.network.IEdge<T>> route(final T p_start, final T p_end );
+    List<de.svenalbert.new_magicroundabout.graph.network.IEdge<T>> route(final T p_start, final T p_end );
 
     /**
      * returns a node from the graph

@@ -54,7 +54,7 @@ public final class CMain {
 
         // --- read yaml file ------------------------------------------------------------------------------------------
 
-        final CYAML l_configuration = new CYAML( l_cli.getOptionValue( "yaml", "bachelor/project/graph/network.yml" ) );
+        final CYAML l_configuration = new CYAML( l_cli.getOptionValue( "yaml", "de/svenalbert/new_magicroundabout/graph/network.yml" ) );
 
         // output of the node, edge and graph objects
         System.out.println( l_configuration.nodes() );

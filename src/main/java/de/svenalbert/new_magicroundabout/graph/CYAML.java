@@ -1,9 +1,9 @@
 package de.svenalbert.new_magicroundabout.graph;
 
-import bachelor.project.graph.network.CEdge;
-import bachelor.project.graph.network.CNode;
-import bachelor.project.graph.network.IEdge;
-import bachelor.project.graph.network.INode;
+import de.svenalbert.new_magicroundabout.graph.network.CEdge;
+import de.svenalbert.new_magicroundabout.graph.network.CNode;
+import de.svenalbert.new_magicroundabout.graph.network.IEdge;
+import de.svenalbert.new_magicroundabout.graph.network.INode;
 import org.yaml.snakeyaml.Yaml;
 
 import java.io.File;
