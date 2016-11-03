@@ -1,10 +1,10 @@
-package de.svenalbert.app;
+package de.svenalbert.new_magicroundabout;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Main
 {
     public static void main( String[] args )
     {
