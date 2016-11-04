@@ -8,7 +8,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public final class CEdge<T> implements IEdge<T>
+public class CEdge<T> implements IEdge<T>
 {
     /**
      * identifier (source of the edge)
